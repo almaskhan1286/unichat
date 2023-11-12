@@ -17,6 +17,8 @@ UniChat is a delightful real-time chat application crafted with ❤️ and cutti
 - **Firebase (🔥)**
 - **Chat Engine (💬)**
 
+## LIVE DEMO: https://unichat-two.vercel.app/
+
 ## Getting Started 🌟
 
 1. Clone the repository.
